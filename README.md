@@ -293,7 +293,4 @@ A dedicated UI component shows all game controls when the Controls button is cli
 ### Shop System:
 The shop interface allows players to select from different tower types, displaying relevant statistics and costs. The system integrates with the player's currency system to enforce purchase limitations based on available gold.
 
-
-*Developed as part of the COMP 345 Advanced C++ Programming course.*
-
 ### **Enjoy the game! 🏆**# Tower-Defense-Replica
