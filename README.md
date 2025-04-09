@@ -1,8 +1,6 @@
 # Tower Defense Game - Advanced C++ Project
 
-**Author:** Sanjai Ratnarajah  
-**Team:** FORTIFY  
-**Course:** COMP 345 - Advanced C++  
+**Author:** Ryan Sefrioui - Sanjai Ratnarajah  
 **Project:** Tower Defense Game  
 
 ## 📖 Overview
