@@ -1,0 +1,27 @@
+[2025-02-15 21:30:40] Game crashed: Segmentation fault (SIGSEGV)
+[2025-02-15 21:32:41] Game crashed: Segmentation fault (SIGSEGV)
+[2025-02-24 00:20:29] Initialization error: Invalid map creation
+[2025-03-01 18:10:47] Initialization error: Invalid map creation
+[2025-03-02 10:00:37] Initialization error: Invalid map creation
+[2025-03-02 10:01:28] Initialization error: Invalid map creation
+[2025-03-20 17:45:41] Initialization error: ERROR: Could not load textures/emerald_block.png
+[2025-03-20 17:45:53] Initialization error: ERROR: Could not load textures/emerald_block.png
+[2025-03-20 17:47:46] Initialization error: ERROR: Could not load textures/emerald_block.png
+[2025-03-20 22:37:44] Initialization error: Invalid map creation
+[2025-03-20 23:01:39] Initialization error: Invalid map creation
+[2025-03-20 23:04:22] Initialization error: Invalid map creation
+[2025-03-25 11:33:45] Initialization error: Invalid map creation
+[2025-03-25 11:43:10] Initialization error: Invalid map creation
+[2025-03-25 12:03:08] Initialization error: Invalid map creation
+[2025-03-26 23:32:05] Initialization error: Invalid map creation
+[2025-03-26 23:33:37] Initialization error: Invalid map creation
+[2025-03-26 23:33:51] Initialization error: Invalid map creation
+[2025-03-27 00:06:03] Initialization error: Path is broken or does not reach the end!
+[2025-03-27 00:06:35] Initialization error: Path is broken or does not reach the end!
+[2025-03-27 00:07:55] Initialization error: Invalid map creation
+[2025-03-27 00:09:05] Initialization error: Path is broken or does not reach the end!
+[2025-03-27 00:10:15] Initialization error: Path is broken or does not reach the end!
+[2025-03-27 00:21:46] Initialization error: Invalid map creation
+[2025-03-27 00:24:54] Initialization error: Path is broken or does not reach the end!
+[2025-03-28 13:53:40] Initialization error: Invalid map creation
+[2025-04-04 15:36:35] Initialization error: Invalid map creation

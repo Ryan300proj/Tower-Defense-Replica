@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug C++ Game",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/tower_defense.exe", // Replace with your executable name
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ],
+      //  "preLaunchTask": "build", // Optional: Link to a build task
+        "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe" // Replace with your GDB path
+      }
+    ]
+  }
